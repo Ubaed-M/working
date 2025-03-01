@@ -1,0 +1,41 @@
+commit 223124d7bf51a92f5467cd89a59a21cd245709a7
+Author: ubaed <ubaedm1@gmail.com>
+Date:   Fri Feb 28 21:05:42 2025 -0800
+
+    HTML edits
+
+commit dc1c19fcca3a24ef2a610ca0ace687a93bb12caf
+Author: ubaed <ubaedm1@gmail.com>
+Date:   Fri Feb 28 21:04:42 2025 -0800
+
+    adds HTML Files
+
+commit d34501cfbe6d91ce6413ca1bc8e27c190531cc03
+Author: ubaed <ubaedm1@gmail.com>
+Date:   Fri Feb 28 20:56:14 2025 -0800
+
+    Accidentally deleted ID, Put it back
+
+commit 3d8a42a3dd35a93237f371a52f35cbd65075c040
+Author: ubaed <ubaedm1@gmail.com>
+Date:   Fri Feb 28 20:55:27 2025 -0800
+
+    Version Number
+
+commit 6cdac6701eaf70eb4760b940a9b9e45856707dbc
+Author: ubaed <ubaedm1@gmail.com>
+Date:   Fri Feb 28 20:47:50 2025 -0800
+
+    Student ID
+
+commit 56be4b5d3c1b2177c0b554807dea2605d72f07d6
+Author: ubaed <ubaedm1@gmail.com>
+Date:   Fri Feb 28 20:41:51 2025 -0800
+
+    initial commit
+
+commit e72413d2763c1b45cf04107c0b65d5587143f6a4
+Author: Ubaed-M <ubaedm1@gmail.com>
+Date:   Fri Feb 28 18:41:52 2025 -0800
+
+    Initial commit

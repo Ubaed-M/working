@@ -1,0 +1,4 @@
+The conflict in E1 was resolved by committing/pushing edits to Github. The merge was successfull and Github recieved the push. 
+
+I created the three HTML files and commit them to Github, I entered text into the three and commit those changes. 
+
